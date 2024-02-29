@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EmmaleeGomez-SimpleNewsApp</string>
+    <string name="news_author">News Author</string>
+    <string name="news_date">News Date</string>
+    <string name="news_title">News Title</string>
+    <string name="news_img">News Image</string>
+    <string name="news_details">News Details</string>
+    <string name="news_content">News Content</string>
+    <string name="news_url">Read More</string>
+    <string name="category">Category</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+
+</resources>
