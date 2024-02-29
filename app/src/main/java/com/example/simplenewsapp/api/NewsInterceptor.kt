@@ -1,5 +1,6 @@
 package com.example.simplenewsapp.api
 
+import com.example.simplenewsapp.BuildConfig
 import okhttp3.HttpUrl
 import okhttp3.Interceptor
 import okhttp3.Request
